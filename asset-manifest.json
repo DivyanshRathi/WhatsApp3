@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WhatsApp3/static/css/main.dec04750.chunk.css",
+    "main.js": "/WhatsApp3/static/js/main.edc94e4f.chunk.js",
+    "main.js.map": "/WhatsApp3/static/js/main.edc94e4f.chunk.js.map",
+    "runtime-main.js": "/WhatsApp3/static/js/runtime-main.b7531b01.js",
+    "runtime-main.js.map": "/WhatsApp3/static/js/runtime-main.b7531b01.js.map",
+    "static/js/2.e2ffdb3a.chunk.js": "/WhatsApp3/static/js/2.e2ffdb3a.chunk.js",
+    "static/js/2.e2ffdb3a.chunk.js.map": "/WhatsApp3/static/js/2.e2ffdb3a.chunk.js.map",
+    "static/js/3.31fbc3e5.chunk.js": "/WhatsApp3/static/js/3.31fbc3e5.chunk.js",
+    "static/js/3.31fbc3e5.chunk.js.map": "/WhatsApp3/static/js/3.31fbc3e5.chunk.js.map",
+    "index.html": "/WhatsApp3/index.html",
+    "static/css/main.dec04750.chunk.css.map": "/WhatsApp3/static/css/main.dec04750.chunk.css.map",
+    "static/js/2.e2ffdb3a.chunk.js.LICENSE.txt": "/WhatsApp3/static/js/2.e2ffdb3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7531b01.js",
+    "static/js/2.e2ffdb3a.chunk.js",
+    "static/css/main.dec04750.chunk.css",
+    "static/js/main.edc94e4f.chunk.js"
+  ]
+}
